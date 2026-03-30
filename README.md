@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=500&lines=⁜+Welcome+to+my+profile+⁜;Backend+Developer;Python+Lover;" />
 </p>
-#
+
 
 **`Desenvolvedor Backend`**
 
@@ -27,7 +27,7 @@
 </p>
 
 #
-<img align="right" alt="" height="180px" src="./src/Gif_laptop.gif">
+<img align="right" alt="" height="190px" src="./src/Gif_laptop.gif">
 
 <h3 align="left"> -> Connect with me</h3>
 
