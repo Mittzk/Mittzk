@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+Lover;API+Builder;Always+Learning" />
 </p>
 
----
 
 ## 🧠 Sobre mim
 
@@ -18,8 +17,6 @@
 ⚙️ Interesse em APIs, automação e sistemas <br>
 🚀 Evoluindo com projetos práticos <br>
 </p>
-
----
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -34,7 +31,6 @@
 
 <br/><br/>
 
----
 
 ## 🔥 Projetos em destaque
 
