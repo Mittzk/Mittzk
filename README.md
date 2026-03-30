@@ -27,7 +27,7 @@
 </p>
 
 #
-<img align="right" alt="" height="150px" src="./src/Gif_laptop.gif">
+<img align="right" alt="" height="180px" src="./src/Gif_laptop.gif">
 
 <h3 align="left"> -> Connect with me</h3>
 
