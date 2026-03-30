@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=500&lines=⁜ Welcome to my profile ⁜;Backend+Developer;Python+Lover;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=&size=30&center=true&vCenter=true&width=500&lines=⁜ Welcome to my profile ⁜;Backend+Developer;Python+Lover;" />
 </p>
 
 #
@@ -27,8 +27,17 @@
     </a>
 </p>
 
----
-### 🤖 Linguagens e Tecnologias
+#
+<img align="right" alt="" height="150px" src="./src/Gif_laptop.gif">
+
+<h3 align="left"> -> Connect with me</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guimatheus.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilherme-math3us/)
+
+<br>
+
+### -> My stacks 
 
 <img 
     align="left" 
@@ -60,9 +69,6 @@
 <img
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  
 />
-
-<br/>
-<br/>
 
 #
 
