@@ -69,8 +69,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  
 />
 
-<img 
-    align="left" 
+<img  
     alt="Git" 
     title="Git"
     width="30px" 
